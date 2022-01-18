@@ -24,6 +24,13 @@
 
 img {
   border-radius: 6px;
+  opacity: 0.5;
+  transition: 1s ease;
+}
+
+img:hover {
+  opacity: 1;
+  transition: 1s ease;
 }
 
 /*# sourceMappingURL=style.css.map */
